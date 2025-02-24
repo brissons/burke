@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/burke/static/css/main.b7dbf4bc.css",
-    "main.js": "/burke/static/js/main.40c2fdbc.js",
-    "static/media/birthday-climb.png": "/burke/static/media/birthday-climb.c45ce865115347efc6c3.png",
+    "main.js": "/burke/static/js/main.ff15606f.js",
+    "static/media/birthday-climb.png": "/burke/static/media/birthday-climb.1addcae1e63f00d54ca4.png",
     "index.html": "/burke/index.html",
     "main.b7dbf4bc.css.map": "/burke/static/css/main.b7dbf4bc.css.map",
-    "main.40c2fdbc.js.map": "/burke/static/js/main.40c2fdbc.js.map"
+    "main.ff15606f.js.map": "/burke/static/js/main.ff15606f.js.map"
   },
   "entrypoints": [
     "static/css/main.b7dbf4bc.css",
-    "static/js/main.40c2fdbc.js"
+    "static/js/main.ff15606f.js"
   ]
 }
